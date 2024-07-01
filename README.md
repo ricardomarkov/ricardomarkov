@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **JavaScript**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Back-end development**
 
 - 📫 How to reach me **ricardomarkov@gmail.com**
 
